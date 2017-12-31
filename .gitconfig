@@ -1,0 +1,8 @@
+[user]
+	name = Jay Kid
+	email = cyph3rfox@gmail.com
+[color]
+	ui = auto
+[alias]
+	st = status -sb
+	lp = log -p
